@@ -1,2 +1,4 @@
 Belajar nvim pemula
 
+1. Text ini di tulis menggunakan insert mode (Esc)
+

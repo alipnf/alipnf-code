@@ -1,3 +1,4 @@
 {
-    "livePreview.defaultPreviewPath": "/Html/latihan-1/index.html"
+    "livePreview.defaultPreviewPath": "/Html/latihan-1/index.html",
+    "python.formatting.provider": "yapf"
 }

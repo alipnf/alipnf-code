@@ -1,4 +1,4 @@
-a = b = c = "bapak kau"
-print(a)
-print(b)
-print(c)
+x = 7
+y = 3
+
+print(x**y)

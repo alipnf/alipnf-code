@@ -1,0 +1,1 @@
+print("kepala bapak kau")

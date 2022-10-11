@@ -1,4 +1,7 @@
 {
     "livePreview.defaultPreviewPath": "/Html/latihan-1/index.html",
-    "python.formatting.provider": "yapf"
+    "python.formatting.provider": "yapf",
+    "python.testing.unittestArgs": ["-v", "-s", "./Python", "-p", "test_*.py"],
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": true
 }

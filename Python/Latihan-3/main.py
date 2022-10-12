@@ -1,4 +1,8 @@
-a = 0.1
-b = 0.2
-c = a+b
-print (c)
+from tkinter import *
+
+app = Tk()
+
+app.geometry('400x600')
+app.configure(bg='#38c2bb')
+
+app.mainloop()

@@ -1,3 +1,11 @@
+"""
+Buatlah program untuk untuk menghitung luas bangun datar dengan beberapa pilihan lalu tampilkan hasilnya
+1. Persegi
+2. Persegi Panjang
+3. Segitiga
+4. Jajar genjang
+5. Lingkaran
+"""
 print(
     'pilih rumus \n1. Persegi \n2. Persegi panjang \n3. Segitiga \n4. Jajar genjang \n5. Lingkaran'
 )

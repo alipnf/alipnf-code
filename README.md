@@ -5,3 +5,4 @@ Html
 Css
 Javascript
 Git
+Python

@@ -1,8 +1,5 @@
-# Belajar-web-developer
 Repo untuk menyimpan file belajar
-
-Html
-Css
-Javascript
-Git
-Python
+Bahasa yang di pelajari :
+1. Html/Css
+2. python
+3. Javascript

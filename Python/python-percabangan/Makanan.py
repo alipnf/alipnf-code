@@ -1,14 +1,13 @@
 pesanan = "y"
 totalHarga = 0
-print("1.\tbakso\t10k\n2.\mi ayam\t9k\n3.\es teh\t3k\n")
+print("1.bakso \t10k\n2.mi ayam \t9k\n3.es teh \t3k\n")
 while (pesanan == "y"):
-    pilihMenu = int(input("masukkan pilihan menu"))
-    if (pilihMenu == 1):
+    pilih_Menu = int(input("masukkan pilihan menu :"))
+    if (pilih_Menu == 1):
         totalHarga += 10000
-        print("ent")
-    elif (pilihMenu == 2):
+    elif (pilih_Menu == 2):
         totalHarga += 9000
-    elif (pilihMenu == 3):
+    elif (pilih_Menu == 3):
         totalHarga += 3000
     else:
         print("error")

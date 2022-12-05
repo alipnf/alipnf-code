@@ -3,4 +3,4 @@ mahasiswa = { 1: {
     "Nim"  : 202251005
 }}
 
-print(mahasiswa)
+print(mahasiswa['Nama'])

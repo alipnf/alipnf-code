@@ -1,5 +1,5 @@
 Repo untuk menyimpan file belajar
 Bahasa yang di pelajari :
-1. Html/Css
-2. python
-
+1. Html
+2. Css 
+3. python
